@@ -10,4 +10,18 @@
 
 - I have extensive experience with HTML and CSS, Opencart engine, SEO promotion, link building, online store organization. Ahrefs, SEMRush
 
+##### Skils
+- HTML & CSS
+- Git
+- Photoshop
+- OpenCart
+- Seo promotion
 
+##### Education
+- VNU Dahl
+ Administrative management
+ 
+##### Languages
+- Russian - native speaker
+- Ukrainian - native speaker
+- English -A1 
